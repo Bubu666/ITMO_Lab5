@@ -1,0 +1,10 @@
+enter_new_init_file Objects2
+info
+update 1 random
+update 3 random
+max_by_mood
+remove_head
+count_by_soundtrack_name random
+history
+show
+save

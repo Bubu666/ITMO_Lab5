@@ -1,0 +1,6 @@
+name;coordinates;realHero;hasToothpick;impactSpeed;soundtrackName;minutesOfWaiting;mood;car;creationDate;
+Claude;131 33.530419;false;false;23.092905;Somebody to Love;5;CALM;true;2020-03-01T14:38:39.994Z
+Taylor;72 24.114977;false;false;9.821190;Time;84;RAGE;true;2020-03-01T14:38:39.994Z
+Carlos;99 120.963276;false;true;12.778828;Raining Blood;27;RAGE;false;2020-03-01T14:38:39.994Z
+Oscar;171 11.821658;true;false;28.235932;Everlong;64;GLOOM;false;2020-03-01T14:38:39.994Z
+Emilio;186 141.142635;true;false;12.603231;Creep;41;CALM;true;2020-03-01T14:38:39.994Z

@@ -1,0 +1,13 @@
+name;coordinates;realHero;hasToothpick;impactSpeed;soundtrackName;minutesOfWaiting;mood;car;creationDate;
+Quentin;124 0.773701;true;false;54.481563;Us And Them;53;RAGE;true;2020-03-06T12:23:27.732Z
+Vincent;176 7.152746;false;true;59.187779;No Surprises;55;RAGE;false;2020-03-06T12:23:27.732Z
+Russel;5 85.584324;false;true;3.760210;Unchained;82;RAGE;false;2020-03-06T12:24:30.329Z
+Philip;118 50.949377;true;true;23.812262;Payback;97;RAGE;true;2020-03-06T12:24:30.329Z
+Aaron;141 59.823338;true;true;62.429854;Love of My Life;14;RAGE;false;2020-03-06T12:24:30.329Z
+Frank;29 10.166554;true;true;3.206757;No Surprises;94;RAGE;false;2020-03-06T12:24:30.329Z
+John;89 24.006819;false;true;31.037391;Shine On You Crazy Diamond;53;RAGE;true;2020-03-06T12:24:30.329Z
+Robert;70 77.564995;false;false;114.147428;Rock 'n' Roll Train;69;RAGE;true;2020-03-06T12:24:30.329Z
+Chris;6 8.779593;true;true;16.753659;Have A Cigar;54;RAGE;false;2020-03-06T12:24:30.329Z
+Elvis;22 0.468809;true;true;116.830246;Paranoid Android;43;RAGE;true;2020-03-06T12:24:30.329Z
+Diego;142 7.765475;false;true;78.116958;Hesitate;17;RAGE;true;2020-03-06T12:24:30.329Z
+Bob;84 117.904319;false;true;31.774365;Back in Black;79;RAGE;true;2020-03-06T12:24:30.329Z
